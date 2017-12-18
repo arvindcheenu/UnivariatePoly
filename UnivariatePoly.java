@@ -1,3 +1,5 @@
+@author ArvindSrinivasan
+@version 1.0.0
 package arvindcheenu.math;
 import java.util.ArrayList;
 import java.util.Arrays;
