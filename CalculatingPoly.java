@@ -1,6 +1,7 @@
+@author ArvindSrinivasan
 import arvindcheenu.math.UnivariatePoly;
 public class CalculatingPoly {
-	/* +--------------+
+    /* +--------------+
      * | DRIVER TESTS |
      * +--------------+
      */
